@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Virat Kohli",
+        "position": "Batsman",
+        "team": "India",
+        "points": 850,
+        "matches": 250
+    },
+    {
+        "name": "Babar Azam",
+        "position": "Batsman",
+        "team": "Pakistan",
+        "points": 820,
+        "matches": 200
+    },
+    {
+        "name": "Rashid Khan",
+        "position": "Bowler",
+        "team": "Afghanistan",
+        "points": 720,
+        "matches": 150
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "position": "Bowler",
+        "team": "India",
+        "points": 780,
+        "matches": 170
+    },
+    {
+        "name": "Ben Stokes",
+        "position": "All-Rounder",
+        "team": "England",
+        "points": 900,
+        "matches": 180
+    },
+    {
+        "name": "Kane Williamson",
+        "position": "Batsman",
+        "team": "New Zealand",
+        "points": 790,
+        "matches": 210
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "position": "All-Rounder",
+        "team": "Bangladesh",
+        "points": 880,
+        "matches": 230
+    },
+    {
+        "name": "Jos Buttler",
+        "position": "Wicketkeeper",
+        "team": "England",
+        "points": 750,
+        "matches": 160
+    },
+    {
+        "name": "Pat Cummins",
+        "position": "Bowler",
+        "team": "Australia",
+        "points": 730,
+        "matches": 140
+    },
+    {
+        "name": "MS Dhoni",
+        "position": "Wicketkeeper",
+        "team": "India",
+        "points": 860,
+        "matches": 300
+    },
+    {
+        "_id": "1",
+        "name": "Shubman Gill",
+        "position": "Batsman",
+        "team": "India",
+        "age": 24,
+        "points": 900
+    },
+    {
+        "_id": "2",
+        "name": "Sam Curran",
+        "position": "All-rounder",
+        "team": "England",
+        "age": 25,
+        "points": 850
+    },
+    {
+        "_id": "3",
+        "name": "Ruturaj Gaikwad",
+        "position": "Batsman",
+        "team": "India",
+        "age": 27,
+        "points": 780
+    },
+    {
+        "_id": "4",
+        "name": "Prithvi Shaw",
+        "position": "Batsman",
+        "team": "India",
+        "age": 24,
+        "points": 750
+    },
+    {
+        "_id": "5",
+        "name": "Ishan Kishan",
+        "position": "Wicketkeeper-Batsman",
+        "team": "India",
+        "age": 25,
+        "points": 820
+    },
+    {
+        "_id": "6",
+        "name": "Harry Brook",
+        "position": "Batsman",
+        "team": "England",
+        "age": 25,
+        "points": 860
+    },
+    {
+        "_id": "7",
+        "name": "Cameron Green",
+        "position": "All-rounder",
+        "team": "Australia",
+        "age": 25,
+        "points": 800
+    },
+    {
+        "_id": "8",
+        "name": "Ravi Bishnoi",
+        "position": "Bowler",
+        "team": "India",
+        "age": 23,
+        "points": 870
+    },
+    {
+        "_id": "9",
+        "name": "Devdutt Padikkal",
+        "position": "Batsman",
+        "team": "India",
+        "age": 24,
+        "points": 760
+    },
+    {
+        "_id": "10",
+        "name": "Finn Allen",
+        "position": "Wicketkeeper-Batsman",
+        "team": "New Zealand",
+        "age": 25,
+        "points": 810
+    },
+    {
+        "_id": "11",
+        "name": "Tom Banton",
+        "position": "Wicketkeeper-Batsman",
+        "team": "England",
+        "age": 25,
+        "points": 820
+    },
+    {
+        "_id": "12",
+        "name": "Josh Philippe",
+        "position": "Wicketkeeper-Batsman",
+        "team": "Australia",
+        "age": 27,
+        "points": 790
+    },
+    {
+        "_id": "13",
+        "name": "Shreyas Iyer",
+        "position": "Batsman",
+        "team": "India",
+        "age": 29,
+        "points": 850
+    },
+    {
+        "_id": "14",
+        "name": "Anrich Nortje",
+        "position": "Bowler",
+        "team": "South Africa",
+        "age": 30,
+        "points": 910
+    },
+    {
+        "_id": "15",
+        "name": "Trent Boult",
+        "position": "Bowler",
+        "team": "New Zealand",
+        "age": 31,
+        "points": 950
+    }
+]
