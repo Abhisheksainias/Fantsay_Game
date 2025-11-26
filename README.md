@@ -107,5 +107,5 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries, feel free to contact:
 
 - **Name:** Abhishek Saini
-- **Email:** your-email@example.com
-- **GitHub:** [github.com/username](https://github.com/username)
+- **Email:** abhisheksaini4952@gmail.com
+- **GitHub:** [github.com/Abhisheksainias)
